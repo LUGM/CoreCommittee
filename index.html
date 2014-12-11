@@ -20,8 +20,9 @@
 
    $.getJSON('people.json', function(data) {
        $.each(data.person, function(i, f) {
+       	  var profile = "https://github.com/"+f.git;
           var tblRow = "<tr>" + "<td>" + f.Name + "</td>" +
-           "<td>" + f.git + "</td>" + "</tr>"
+           "<td>" + "<a href ="+ profile +">" + f.git + "</a>" + "</td>" + "</tr>"
            $(tblRow).appendTo("#userdata tbody");
      });
 

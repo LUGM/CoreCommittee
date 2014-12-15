@@ -13,6 +13,10 @@
          "git": "hav3n"
        },
        {
+          "Name": "Vaishak Salin",
+          "git": "vaishaks"
+       },
+       {
            "Name": "Projjol Banerji",
            "git": "Projjol"
        },
@@ -23,10 +27,6 @@
        {
            "Name": "Shubham Sorte",
            "git": "shubhsin"
-       },
-       {
-          "Name": "Vaishak Salin",
-          "git": "vaishaks"
        }
    ]
 }

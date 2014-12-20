@@ -1,6 +1,10 @@
 {
    "person": [
        {
+           "Name": "Divyansh Prakash",
+           "git": "divs1210"
+       },
+       {
          "Name": "Saumye Srivastava",
          "git": "saumye"
        },
@@ -27,10 +31,6 @@
        {
            "Name": "Shubham Sorte",
            "git": "shubhsin"
-       },
-       {
-           "Name": "Divyansh Prakash",
-           "git": "divs1210"
        }
    ]
 }

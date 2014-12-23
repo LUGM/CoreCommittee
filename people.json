@@ -1,6 +1,18 @@
 {
    "person": [
        {
+          "Name": "Vikash Agrawal",
+          "git": "IVIKASH"
+       },
+       {
+          "Name": "Harshit Shrivastava",
+          "git": "Harshit-Shrivastava"
+       },
+       {
+          "Name": "Saurabh Sood",
+          "git": "saurabhsood91"
+       },
+       {
            "Name": "Divyansh Prakash",
            "git": "divs1210"
        },

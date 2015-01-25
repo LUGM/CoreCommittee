@@ -37,6 +37,10 @@
           "git": "vaishaks"
        },
        {
+          "Name": "Soumyadeep Ghosh",
+          "git": "deep11194g" 
+       },
+       {
            "Name": "Projjol Banerji",
            "git": "Projjol"
        },
@@ -47,10 +51,6 @@
        {
            "Name": "Shubham Sorte",
            "git": "shubhsin"
-       },
-       {
-          "Name": "Soumyadeep Ghosh",
-          "git": "deep11194g" 
        }
    ]
 }

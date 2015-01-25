@@ -1,56 +1,56 @@
 {
-   "person": [
-       {
-          "Name": "Vikash Agrawal",
-          "git": "IVIKASH"
-       },
-       {
-          "Name": "Harshit Shrivastava",
-          "git": "Harshit-Shrivastava"
-       },
-       {
-          "Name": "Saurabh Sood",
-          "git": "saurabhsood91"
-       },
-       {
-           "Name": "Divyansh Prakash",
-           "git": "divs1210"
-       },
-       {
-           "Name": "Aayush Kothari",
-           "git": "aayushkothari"
-       },
-       {
-         "Name": "Saumye Srivastava",
-         "git": "saumye"
-       },
-       {
-         "Name": "Ankit Agarwal",
-         "git": "aciidb0mb3r"
-       },
-       {
-         "Name": "Nikhil Peter Raj",
-         "git": "hav3n"
-       },
-       {
-          "Name": "Vaishak Salin",
-          "git": "vaishaks"
-       },
-       {
-          "Name": "Soumyadeep Ghosh",
-          "git": "deep11194g" 
-       },
-       {
-           "Name": "Projjol Banerji",
-           "git": "Projjol"
-       },
-       {
-           "Name": "Kartik Arora",
-           "git": "chipset95"
-       },
-       {
-           "Name": "Shubham Sorte",
-           "git": "shubhsin"
-       }
+   "person":[
+      {
+         "Name":"Vikash Agrawal",
+         "git":"IVIKASH"
+      },
+      {
+         "Name":"Harshit Shrivastava",
+         "git":"Harshit-Shrivastava"
+      },
+      {
+         "Name":"Saurabh Sood",
+         "git":"saurabhsood91"
+      },
+      {
+         "Name":"Divyansh Prakash",
+         "git":"divs1210"
+      },
+      {
+         "Name":"Aayush Kothari",
+         "git":"aayushkothari"
+      },
+      {
+         "Name":"Saumye Srivastava",
+         "git":"saumye"
+      },
+      {
+         "Name":"Ankit Agarwal",
+         "git":"aciidb0mb3r"
+      },
+      {
+         "Name":"Nikhil Peter Raj",
+         "git":"hav3n"
+      },
+      {
+         "Name":"Vaishak Salin",
+         "git":"vaishaks"
+      },
+      {
+         "Name":"Soumyadeep Ghosh",
+         "git":"deep11194g"
+      },
+      {
+         "Name":"Projjol Banerji",
+         "git":"Projjol"
+      },
+      {
+         "Name":"Kartik Arora",
+         "git":"chipset95"
+      },
+      {
+         "Name":"Shubham Sorte",
+         "git":"shubhsin"
+      }
    ]
 }

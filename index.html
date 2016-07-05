@@ -8,39 +8,40 @@
     <meta name="author" content="">
 
     <title>Who are we?</title>
-    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
     <link href="css/dashboard.css" rel="stylesheet">
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    
+    <script
+        src="https://code.jquery.com/jquery-3.0.0.js"
+        integrity="sha256-jrPLZ+8vDxt2FnE1zvZXCkCcebI/C8Dt5xyaQBjxQIo="
+        crossorigin="anonymous"></script>
+
     <script>
-
     $(function() {
-
-
-   var people = [];
-
-   $.getJSON('people.json', function(data) {
-       $.each(data.person, function(i, f) {
-       	  var profile = "https://github.com/"+f.git;
-          var tblRow = "<tr>" + "<td>" + f.Name + "</td>" +
-           "<td>" + "<a href ="+ profile +" target=\"_blank\">" + f.git + "</a>" + "</td>" + "</tr>"
-           $(tblRow).appendTo("#userdata tbody");
-     });
-
-   });
-
-});
-</script>
+      $.getJSON('people.json', function(data) {
+        $.each(data.person, function(i, f) {
+          var profile = "https://github.com/"+f.git;
+          var tblRow = "<tr>" + "<td>" + f.name + "</td>" +
+          "<td>" + "<a href =" + profile + " target=\"_blank\">" + f.git + "</a>" + "</td>" + "</tr>";
+          $(tblRow).appendTo("#userdata tbody");
+        });
+      });
+    });
+    </script>
   </head>
 
   <body>
     <div class="container">
 
-      <h1>LUGM's core committee</h1>
+      <h1>LUGM's Core Committee</h1>
         <table class="table table-striped" id= "userdata">
   <thead>
             <tr>
-              <th>Name</th>
-              <th>Github id</th>
+              <th><i class="fa fa-user fa-2x" aria-hidden="true"></i> Name</th>
+              <th><i class="fa fa-github fa-2x" aria-hidden="true"></i> GitHub</th>
           </tr>
         </thead>
       <tbody>

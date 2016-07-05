@@ -1,56 +1,84 @@
 {
    "person":[
       {
-         "Name":"Vikash Agrawal",
+         "name":"Vikash Agrawal",
          "git":"IVIKASH"
       },
       {
-         "Name":"Harshit Shrivastava",
+         "name":"Harshit Shrivastava",
          "git":"Harshit-Shrivastava"
       },
       {
-         "Name":"Saurabh Sood",
+         "name":"Saurabh Sood",
          "git":"saurabhsood91"
       },
       {
-         "Name":"Divyansh Prakash",
+         "name":"Divyansh Prakash",
          "git":"divs1210"
       },
       {
-         "Name":"Aayush Kothari",
+         "name":"Aayush Kothari",
          "git":"aayushkothari"
       },
       {
-         "Name":"Saumye Srivastava",
+         "name":"Saumye Srivastava",
          "git":"saumye"
       },
       {
-         "Name":"Ankit Agarwal",
+         "name":"Ankit Agarwal",
          "git":"aciidb0mb3r"
       },
       {
-         "Name":"Nikhil Peter Raj",
+         "name":"Nikhil Peter Raj",
          "git":"hav3n"
       },
       {
-         "Name":"Vaishak Salin",
+         "name":"Vaishak Salin",
          "git":"vaishaks"
       },
       {
-         "Name":"Soumyadeep Ghosh",
+         "name":"Soumyadeep Ghosh",
          "git":"deep11194g"
       },
       {
-         "Name":"Projjol Banerji",
+         "name":"Projjol Banerji",
          "git":"Projjol"
       },
       {
-         "Name":"Kartik Arora",
+         "name":"Kartik Arora",
          "git":"kartikarora"
       },
       {
-         "Name":"Shubham Sorte",
+         "name":"Shubham Sorte",
          "git":"shubhsin"
+      },
+      {
+         "name":"Anirudh Raghunath",
+         "git":"senko0296"
+      },
+      {
+         "name":"Yash Kumar Lal",
+         "git":"ykl7"
+      },
+      {
+         "name":"Anuraag Baishya",
+         "git":"anuraagbaishya"
+      },
+      {
+         "name":"Sushant Gakhar",
+         "git":"sushantgakhar"
+      },
+      {
+      	"name":"Saketh Kaparthi",
+      	"git":"sakethkaparthi"
+      },
+      {
+      	"name":"Chinmay Nivsarkar",
+      	"git":"chinmay-n"
+      },
+      {
+      	"name":"Avikant Saini",
+      	"git":"avikantz"
       }
    ]
 }
